@@ -1,5 +1,11 @@
 # Welcome to Entropica Labs Challenge!
 
+Abel Cotoñeto Padilla acotopadi@gmail.com
+Brian García Sarmina brian.garsar.6@gmail.com
+Miguel Alejandro Medina Armendariz miguelalemedina@gmail.com
+Areli Yesareth Guerrero Estrada ayge.1904@gmail.com
+Angeles Alejandra Sánchez Manilla amanilla5410@gmail.com
+
 Every Algorithm has a Beginning!
 
 The success of a QAOA depends, among many factors, on the choice of initial parameters. Choose poorly, and training will be lengthy and complex. Choose wisely, and you may stand a chance to see the QAOA succeed!
